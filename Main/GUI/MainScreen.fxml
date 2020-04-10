@@ -39,7 +39,10 @@
          <Font size="20.0" />
       </font>
    </Text>
-   <Button layoutX="441.0" layoutY="314.0" mnemonicParsing="false" onAction="#deleteOlderThan" prefHeight="31.0" prefWidth="157.0" style="-fx-background-color: #b30000;" text="Delete Older Than" />
+   <Button layoutX="441.0" layoutY="314.0" mnemonicParsing="false" onAction="#deleteOlderThan" prefHeight="31.0" prefWidth="157.0" style="-fx-background-color: #b30000;" text="Delete Older Than" textFill="WHITE">
+      <font>
+         <Font size="14.0" />
+      </font></Button>
    <TextField fx:id="tfCutOffDate" alignment="CENTER" layoutX="441.0" layoutY="354.0" prefHeight="31.0" prefWidth="157.0" promptText="YYYY-MM-DD" />
    <Text fx:id="txtDateError" fill="#b30000" layoutX="395.0" layoutY="412.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="250.0">
       <font>
