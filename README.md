@@ -7,4 +7,4 @@ The most recent version of Java
 # Setup
 Use the included .jar file, or compile your own with the files included in the Main folder.
 
-![Screenshot](/images/RemotePolicyRemover.png)
+![Screenshot](/Images/RemotePolicyRemover.png)
