@@ -1,6 +1,9 @@
 # RemotePolicyRemoval (Java Version)
 Remove policies created with Jamf (Casper) Remote (Java Version)
 
+# Version
+0.7
+
 # Requirements
 The most recent version of Java
 
